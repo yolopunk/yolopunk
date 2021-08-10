@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm yolopunk</h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yolopunk&count_private=true&show_icons=true&hide_title=true" />
 
